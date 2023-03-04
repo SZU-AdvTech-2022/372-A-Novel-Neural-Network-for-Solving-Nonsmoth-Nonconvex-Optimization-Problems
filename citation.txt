@@ -1,8 +1,8 @@
-@article{10.1109/TNNLS.2019.2920408,
-author = {Xin Yu; Lingzhen Wu; Chenhua Xu; Yue Hu; Chong Ma},
-title = {A Novel Neural Network for Solving Nonsmoth Nonconvex Optimization Problems},
-journal = {IEEE Transactions on Neural Networks and Learning Systems },
-year = {2020},
-volume = {31},
-number = {5}
+@article{REPO-373,
+    author = "Ma, Xin Yu; Lingzhen Wu; Chenhua Xu; Yue Hu; Chong",
+    journal = "IEEE Transactions on Neural Networks and Learning Systems",
+    number = "5",
+    title = "{A Novel Neural Network for Solving Nonsmoth Nonconvex Optimization Problems}",
+    volume = "31",
+    year = "2020"
 }
