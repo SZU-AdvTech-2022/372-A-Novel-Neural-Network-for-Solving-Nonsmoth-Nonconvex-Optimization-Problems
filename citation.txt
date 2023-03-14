@@ -1,0 +1,8 @@
+@article{REPO-373,
+    author = "Ma, Xin Yu; Lingzhen Wu; Chenhua Xu; Yue Hu; Chong",
+    journal = "IEEE Transactions on Neural Networks and Learning Systems",
+    number = "5",
+    title = "{A Novel Neural Network for Solving Nonsmoth Nonconvex Optimization Problems}",
+    volume = "31",
+    year = "2020"
+}
